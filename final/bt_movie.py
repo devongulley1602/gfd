@@ -1,7 +1,7 @@
 """
 bt_movie.py
 
-Run the time evolution of the BTModel for all case{number}.py
+Run the time evolution of the BTModel for any case{number}.py
 
 Author: Devon Gulley
 
